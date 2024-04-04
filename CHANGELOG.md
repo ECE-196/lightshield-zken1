@@ -4,7 +4,7 @@
 ### Contributors: Zhi Xuan Huang
 ...
 
-### Added "submission.*"
+### Added "submission.HEIC"
 ...
 
 ### Changed 
