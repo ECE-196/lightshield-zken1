@@ -1,13 +1,13 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## {April 4th, 2024}
+### Contributors: Zhi Xuan Huang
 ...
 
-### Added
+### Added "submission.*"
 ...
 
-### Changed
+### Changed 
 ...
 
 ### Removed
